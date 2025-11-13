@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@keyframes pulse-slow {
+  0% { opacity: 0.60; }
+  50% { opacity: 0.75; }
+  100% { opacity: 0.60; }
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 6s ease-in-out infinite;
+}
+
+/* === GLOBAL LUXURY BACKGROUND === */
+html, body {
+  background-color: #f7f7f5;
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* === LUXURY GRAIN TEXTURE === */
+body {
+  background-image: url("https://grainy-gradients.vercel.app/noise.svg");
+  background-size: 240px 240px;
+  background-repeat: repeat;
+}
+
+/* === LIGHT AURA GLOW === */
+body::before {
+  content: "";
+  position: fixed;
+  top: -20%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 160%;
+  height: 160%;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.65) 0%,
+    rgba(255, 255, 255, 0.15) 40%,
+    rgba(255, 255, 255, 0) 70%
+  );
+  pointer-events: none;
+  z-index: -1;
+  opacity: 0.5;
+}

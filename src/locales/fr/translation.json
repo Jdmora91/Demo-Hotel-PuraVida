@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "badge": "Votre escapade parfaite dans la nature",
+    "title": "Séjournez au paradis",
+    "subtitle": "Profitez d’un confort premium et de vues spectaculaires à Bahía Ballena.",
+    "calendar": {
+      "checkIn": "Date d'arrivée",
+      "checkOut": "Date de départ",
+      "guests": "Invités",
+      "button": "Vérifier la disponibilité"
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "rooms": "Chambres",
+    "amenities": "Services",
+    "gallery": "Galerie",
+    "location": "Localisation",
+    "contact": "Contact",
+    "book": "Réserver maintenant"
+  },
+  "rooms": {
+    "title": "Nos Chambres & Suites",
+    "subtitle": "Des espaces conçus pour le confort, l’intimité et une détente absolue.",
+    "bookNow": "Réserver",
+    "whatsappMessage": "Bonjour, je suis intéressé par la chambre :",
+    "suite": {
+      "title": "Suite Vue sur l’Océan",
+      "description": "Une suite spacieuse et luxueuse avec vue panoramique et décoration raffinée.",
+      "price": "À partir de 420$/nuit",
+      "bookNow": "Réserver"
+    },
+    "deluxe": {
+      "title": "Chambre Deluxe",
+      "description": "Une chambre élégante avec un éclairage chaleureux et des finitions haut de gamme.",
+      "price": "À partir de 280$/nuit",
+      "bookNow": "Réserver"
+    },
+    "standard": {
+      "title": "Chambre Standard",
+      "description": "Un espace confortable, décoré avec soin pour votre séjour.",
+      "price": "À partir de 190$/nuit",
+      "bookNow": "Réserver"
+    }
+  },
+  "roomCard": {
+    "checkAvailability": "Vérifier la disponibilité"
+  },
+  "amenities": {
+    "title": "Commodités & Expériences",
+    "spa": {
+      "title": "Spa & Bien-être",
+      "text": "Massages exclusifs, aromathérapie et soins pour une détente totale."
+    },
+    "restaurant": {
+      "title": "Gastronomie Gourmet",
+      "text": "Saveurs locales et plats internationaux préparés par des chefs experts."
+    },
+    "pool": {
+      "title": "Piscines Panoramiques",
+      "text": "Détendez-vous dans nos piscines entourées de nature et de vues spectaculaires."
+    },
+    "suite": {
+      "title": "Suites de Luxe",
+      "text": "Espaces conçus pour le confort, l’intimité et un repos premium."
+    },
+    "experiences": {
+      "title": "Expériences Uniques",
+      "text": "Kayak, nature et activités pour profiter de la beauté de Bahía Ballena."
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Découvrez l’essence de notre hôtel à travers une sélection d’images élégantes et raffinées.",
+    "back": "Retour",
+    "items": {
+      "drone": {
+        "title": "Vue Aérienne",
+        "desc": "Une perspective panoramique de l’hôtel et de son environnement naturel."
+      },
+      "pool": {
+        "title": "Piscine Principale",
+        "desc": "Un espace relaxant entouré d’une végétation tropicale luxuriante."
+      },
+      "restaurant": {
+        "title": "Restaurant",
+        "desc": "Cuisine gastronomique préparée avec des ingrédients locaux et frais."
+      },
+      "spa": {
+        "title": "Spa de Luxe",
+        "desc": "Des soins exclusifs conçus pour une détente profonde et revitalisante."
+      },
+      "suite": {
+        "title": "Suite Premium",
+        "desc": "Élégance et confort dans une atmosphère sereine et luxueuse."
+      },
+      "kayak": {
+        "title": "Kayak",
+        "desc": "Explorez les eaux calmes et profitez d’une aventure en pleine nature."
+      },
+      "lobby": {
+        "title": "Hall d’Entrée",
+        "desc": "Un espace sophistiqué offrant un accueil chaleureux et raffiné."
+      },
+      "pool2": {
+        "title": "Piscine Nocturne",
+        "desc": "Un éclairage subtil qui crée une ambiance magique à la tombée de la nuit."
+      }
+    }
+  },
+  "reservation": {
+    "title": "Réservez Votre Séjour",
+    "subtitle": "Notre équipe confirmera votre réservation en quelques minutes.",
+    "name": "Nom complet",
+    "namePh": "Entrez votre nom",
+    "email": "Email",
+    "emailPh": "exemple@email.com",
+    "checkIn": "Date d'arrivée",
+    "checkOut": "Date de départ",
+    "guests": "Nombre d’invités",
+    "message": "Message optionnel",
+    "messagePh": "Ex : Je voudrais une chambre avec vue sur la mer",
+    "button": "Envoyer via WhatsApp",
+    "back": "← Retour à l’accueil"
+  },
+  "location": {
+    "title": "Localisation",
+    "subtitle": "Situé au cœur de Bahía Ballena, Osa — entouré d’une nature intacte, de plages dorées et de la sérénité du Costa Rica.",
+    "uvita": "Plage d’Uvita",
+    "uvitaDesc": "Célèbre pour sa forme de queue de baleine et ses eaux turquoise calmes, à seulement 5 minutes de l’hôtel.",
+    "nauyaca": "Chutes de Nauyaca",
+    "nauyacaDesc": "Deux cascades majestueuses cachées dans la jungle — idéales pour la baignade et l’aventure.",
+    "rio": "Rivière Ballena",
+    "rioDesc": "Un refuge naturel pour la marche, l’observation des oiseaux et la détente au rythme de la forêt tropicale.",
+    "nature": "Réserve Naturelle",
+    "natureDesc": "Une flore et une faune tropicales exceptionnelles — un paradis pour les amoureux de la nature et de la photographie.",
+    "airport": "Aéroport de Quepos",
+    "airportDesc": "À seulement 40 minutes, avec des liaisons directes vers San José et les destinations du Pacifique.",
+    "button": "Voir sur Google Maps"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes à votre disposition pour organiser une expérience inoubliable à Bahía Ballena.",
+    "formTitle": "Envoyez-nous un message",
+    "name": "Nom complet",
+    "namePh": "Entrez votre nom",
+    "email": "Adresse e-mail",
+    "emailPh": "exemple@email.com",
+    "message": "Message",
+    "messagePh": "Parlez-nous de votre voyage ou de votre demande...",
+    "button": "Envoyer le message",
+    "footerText": "Nous vous répondrons rapidement. Pura Vida !"
+  },
+  "footer": {
+    "home": "Accueil",
+    "rooms": "Chambres",
+    "gallery": "Galerie",
+    "contact": "Contact",
+    "invite": "Vous rêvez d’un site web comme celui-ci ? Créons ensemble votre paradis digital avec Pura Vida Tech.",
+    "visit": "Visiter Pura Vida Tech",
+    "rights": "Tous droits réservés.",
+    "madeWith": "Créé avec amour depuis"
+  },
+  "whatsapp": {
+  "chatBubble": "Discutez avec nous !",
+  "btn": "WhatsApp",
+  "book": "Réserver maintenant",
+  "message": "Bonjour 👋 J’aimerais en savoir plus sur Pura Vida Hotel."
+}
+
+}

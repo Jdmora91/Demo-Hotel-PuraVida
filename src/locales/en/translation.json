@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "badge": "Your perfect nature escape",
+    "title": "Stay in paradise",
+    "subtitle": "Enjoy premium comfort and breathtaking views in Bahía Ballena.",
+    "calendar": {
+      "checkIn": "Check-in date",
+      "checkOut": "Check-out date",
+      "guests": "Guests",
+      "button": "Check availability"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "amenities": "Amenities",
+    "gallery": "Gallery",
+    "location": "Location",
+    "contact": "Contact",
+    "book": "Reserve Now"
+  },
+  "rooms": {
+    "title": "Our Rooms & Suites",
+    "subtitle": "Designed for comfort, privacy, and pure relaxation.",
+    "bookNow": "Book now",
+    "whatsappMessage": "Hello, I am interested in the room:",
+    "suite": {
+      "title": "Ocean View Suite",
+      "description": "A spacious luxury suite with panoramic views and refined interior design.",
+      "price": "From $420/night",
+      "bookNow": "Book Now"
+    },
+    "deluxe": {
+      "title": "Deluxe Room",
+      "description": "An elegant room featuring warm lighting and premium finishes.",
+      "price": "From $280/night",
+      "bookNow": "Book Now"
+    },
+    "standard": {
+      "title": "Standard Room",
+      "description": "A comfortable and beautifully designed room for your stay.",
+      "price": "From $190/night",
+      "bookNow": "Book Now"
+    }
+  },
+  "roomCard": {
+    "checkAvailability": "Check availability"
+  },
+  "amenities": {
+    "title": "Amenities & Experiences",
+    "spa": {
+      "title": "Spa & Wellness",
+      "text": "Exclusive massages, aromatherapy and treatments designed for complete relaxation."
+    },
+    "restaurant": {
+      "title": "Gourmet Dining",
+      "text": "Local flavors and international dishes prepared by expert chefs."
+    },
+    "pool": {
+      "title": "Panoramic Pools",
+      "text": "Relax in our pools surrounded by nature and breathtaking views."
+    },
+    "suite": {
+      "title": "Luxury Suites",
+      "text": "Spaces designed for comfort, privacy and a premium rest."
+    },
+    "experiences": {
+      "title": "Unique Experiences",
+      "text": "Kayaking, nature and activities to enjoy the beauty of Bahía Ballena."
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Discover the essence of our hotel through elegant and carefully curated images.",
+    "back": "Back to Home",
+    "items": {
+      "drone": {
+        "title": "Aerial View",
+        "desc": "A panoramic perspective of the hotel and its natural surroundings."
+      },
+      "pool": {
+        "title": "Main Pool",
+        "desc": "A relaxing space surrounded by lush tropical scenery."
+      },
+      "restaurant": {
+        "title": "Restaurant",
+        "desc": "Gourmet cuisine crafted with fresh, local ingredients."
+      },
+      "spa": {
+        "title": "Luxury Spa",
+        "desc": "Exclusive treatments designed for deep relaxation and rejuvenation."
+      },
+      "suite": {
+        "title": "Premium Suite",
+        "desc": "Elegance and comfort blended with a serene and luxurious atmosphere."
+      },
+      "kayak": {
+        "title": "Kayak",
+        "desc": "Explore calm waters and enjoy an immersive natural adventure."
+      },
+      "lobby": {
+        "title": "Lobby",
+        "desc": "A sophisticated space offering a warm and stylish welcome."
+      },
+      "pool2": {
+        "title": "Night Pool",
+        "desc": "Soft lighting creates a magical atmosphere as night falls."
+      }
+    }
+  },
+  "reservation": {
+    "title": "Book Your Stay",
+    "subtitle": "Our team will confirm your reservation in minutes.",
+    "name": "Full Name",
+    "namePh": "Enter your name",
+    "email": "Email",
+    "emailPh": "example@email.com",
+    "checkIn": "Check-In Date",
+    "checkOut": "Check-Out Date",
+    "guests": "Number of Guests",
+    "message": "Optional Message",
+    "messagePh": "Example: I would like an ocean-view room",
+    "button": "Send via WhatsApp",
+    "back": "← Back to Home"
+  },
+  "location": {
+    "title": "Location",
+    "subtitle": "Nestled in the heart of Bahía Ballena, Osa — surrounded by untouched nature, golden beaches and the tranquil spirit of Costa Rica.",
+    "uvita": "Uvita Beach",
+    "uvitaDesc": "Famous for its whale tail shape and calm turquoise waters, located just 5 minutes from the hotel.",
+    "nauyaca": "Nauyaca Waterfalls",
+    "nauyacaDesc": "Majestic twin waterfalls hidden in the jungle — ideal for swimming and adventure.",
+    "rio": "Ballena River",
+    "rioDesc": "A natural refuge for walking, birdwatching, and reconnecting with the rhythm of the rainforest.",
+    "nature": "Nature Reserve",
+    "natureDesc": "Tropical flora and fauna at their finest — perfect for eco-lovers and photographers alike.",
+    "airport": "Quepos Airport",
+    "airportDesc": "Just 40 minutes away, offering direct connections to San José and Pacific destinations.",
+    "button": "View on Google Maps"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We’re here to help you plan an unforgettable experience in Bahía Ballena.",
+    "formTitle": "Send us a message",
+    "name": "Full name",
+    "namePh": "Enter your name",
+    "email": "Email address",
+    "emailPh": "example@email.com",
+    "message": "Message",
+    "messagePh": "Tell us about your trip or question...",
+    "button": "Send Message",
+    "footerText": "We’ll get back to you soon. Pura Vida!"
+  },
+  "footer": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "invite": "Would you like a website like this? Let’s build your digital paradise together with Pura Vida Tech.",
+    "visit": "Visit Pura Vida Tech",
+    "rights": "All rights reserved.",
+    "madeWith": "Crafted with love from"
+  },
+  "whatsapp": {
+  "chatBubble": "Chat with us!",
+  "btn": "WhatsApp",
+  "book": "Book now",
+  "message": "Hello 👋 I’d like to know more about Pura Vida Hotel."
+}
+
+}
